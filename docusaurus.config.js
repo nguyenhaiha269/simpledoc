@@ -1,12 +1,5 @@
 // @ts-check
-// `@type` JSDoc annotations allow editor autocompletion and type checking
-// (when paired with `@ts-check`).
-// There are various equivalent ways to declare your Docusaurus config.
-// See: https://docusaurus.io/docs/api/docusaurus-config
-
-import {themes as prismThemes} from 'prism-react-renderer';
-
-// This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
+import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -14,23 +7,19 @@ const config = {
   tagline: 'Dinosaurs thật tuyệt vời!',
   favicon: 'img/favicon.ico',
 
-  // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  // Cấu hình URL chính xác để deploy trên GitHub Pages
+  url: 'https://nguyenhaiha269.github.io',
+  baseUrl: '/simpledoc/',
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  // Cấu hình GitHub Pages để deploy đúng
+  organizationName: 'nguyenhaiha269', // GitHub username của bạn
+  projectName: 'simpledoc', // Tên repo của bạn
+  deploymentBranch: 'gh-pages', // Nhánh được dùng để deploy
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
+  trailingSlash: false, // Tránh lỗi trang 404 khi truy cập đường dẫn
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -45,10 +34,7 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/nguyenhaiha269/simpledoc/edit/main/',
         },
         blog: {
           showReadingTime: true,
@@ -56,11 +42,7 @@ const config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          // Useful options to enforce blogging best practices
+          editUrl: 'https://github.com/nguyenhaiha269/simpledoc/edit/main/',
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
@@ -75,22 +57,15 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-
-      // announcementBar: {
-      //   id: 'announcementBar-v3.2', // Increment on change
-      //   content: `🎉️ <b>Khai giảng khoá học Python chứng khoán K9 từ 8/12/2024 <a target="_blank" href="https://vnstocks.com/lp-khoa-hoc-python-chung-khoan/"></a></b>. Đăng ký ngay! 🥳️`,
-      // },
-
       announcementBar: {
-        id: 'image_banner', // Any value that will identify this message.
+        id: 'image_banner',
         content:
           '<a href="https://vnstocks.com/lp-khoa-hoc-python-chung-khoan"><img src="https://vnstocks.com/img/python_chung_khoan_banner.png" alt="Banner" class="announcement-bar-image" /></a>',
-        backgroundColor: '#fafbfc', // Defaults to `#fff`.
-        textColor: '#091E42', // Defaults to `#000`.
-        isCloseable: true, // Defaults to `true`.
+        backgroundColor: '#fafbfc',
+        textColor: '#091E42',
+        isCloseable: true,
       },
 
-      // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'Awesome Docusaurus',
@@ -99,31 +74,12 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
+          { to: '/docs/intro', position: 'left', label: 'Tutorial' },
+          { to: '/blog', label: 'Blog', position: 'left' },
+          { to: '/docs/demo/', label: 'Thư viện mẫu', position: 'left' },
+          { to: '/markdown-page', label: 'Trang Markdown', position: 'left' },
           {
-            to: '/docs/intro',
-            position: 'left',
-            label: 'Tutorial',
-            activeBaseRegex: `/docs/intro`,
-          },
-          {to: '/blog', 
-            label: 'Blog', 
-            position: 'left',
-            activeBaseRegex: `/blog`,
-          },
-          {
-            to: '/docs/demo/', 
-            label: 'Thư viện mẫu', 
-            position: 'left',
-            activeBaseRegex: `/docs/demo/`,
-          },
-          {
-            to: '/markdown-page', 
-            label: 'Trang Markdown', 
-            position: 'left',
-            activeBaseRegex: `/markdown-page`,
-          },
-          {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/nguyenhaiha269/simpledoc',
             label: 'GitHub',
             position: 'right',
           },
@@ -134,12 +90,7 @@ const config = {
         links: [
           {
             title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
+            items: [{ label: 'Tutorial', to: '/docs/intro' }],
           },
           {
             title: 'Community',
@@ -161,13 +112,10 @@ const config = {
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
+              { label: 'Blog', to: '/blog' },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/nguyenhaiha269/simpledoc',
               },
             ],
           },
