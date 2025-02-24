@@ -3,7 +3,12 @@ name: Deploy Docusaurus to GitHub Pages
 on:
   push:
     branches:
-      - main  # Hoặc branch bạn đang dùng
+      - main  # Hoặc branch bạn muốn deploy
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
 
 jobs:
   build:
@@ -15,16 +20,15 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20' # Chọn phiên bản Node phù hợp
+          node-version: '18'  # Docusaurus hoạt động ổn định hơn với Node.js 18
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci  # Cài đặt dependencies nhanh hơn, đáng tin cậy hơn
 
       - name: Build website
-        run: npm run build
+        env:
+          GIT_USER: ${{ secrets.GITHUB_TOKEN }}
+        run: npm run build  # Chạy lệnh build website
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./build
+      - name: Deploy website
+        run: npm run deploy  # Chạy lệnh deploy lên GitHub Pages
