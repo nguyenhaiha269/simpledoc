@@ -92,32 +92,4 @@ div[class^='announcementBar_'] {
   
   display: flex;
   justify-content: center;
-  align-items: center;
-  padding: 0;
-  height: 150px; /* Tăng chiều cao của banner */
-  max-height: none;
-  text-align: center;
-}
-
-/* Định dạng hình ảnh trong banner */
-.announcement-bar-image {
-  width: 100%; /* Ảnh sẽ rộng tối đa */
-  max-width: 1200px; /* Giới hạn chiều rộng tối đa */
-  height: auto; /* Giữ tỉ lệ ảnh */
-  max-height: 250px; /* Giới hạn chiều cao */
-  display: block;
-  margin: auto;
-  object-fit: contain; /* Đảm bảo ảnh vừa với banner */
-}
-
-/* Khi ở màn hình nhỏ, giảm chiều cao banner */
-@media (max-width: 768px) {
-  div[class^='announcementBar_'] {
-    height: 100px; /* Giảm chiều cao banner */
-  }
-
-  .announcement-bar-image {
-    max-height: 90px; /* Giới hạn chiều cao ảnh */
-  }
-}
-/* ===== KẾT THÚC THIẾT LẬP BANNER ===== */
+  align-items: c
