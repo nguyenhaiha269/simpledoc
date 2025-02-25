@@ -63,7 +63,7 @@ const config = {
         id: 'image_banner',
         content:
           `<a href="">
-            <img src="https://i.imgur.com/2igOfUl.png" 
+            <img src="https://images.unsplash.com/reserve/bOvf94dPRxWu0u3QsPjF_tree.jpg" 
             alt="Banner" class="announcement-bar-image" />
           </a>`,
         backgroundColor: '#fafbfc',
