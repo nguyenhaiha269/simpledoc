@@ -92,4 +92,8 @@ div[class^='announcementBar_'] {
   
   display: flex;
   justify-content: center;
-  align-items: c
+  align-items: center;
+  padding: 10px;
+  border-bottom: 1px solid #ddd; /* Thêm đường kẻ phân cách */
+}
+
