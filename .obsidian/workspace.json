@@ -15,7 +15,7 @@
               "state": {
                 "file": "docs/HVAC/Hệ điều hòa VRV.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Hệ điều hòa VRV"

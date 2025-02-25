@@ -62,8 +62,8 @@ const config = {
       announcementBar: {
         id: 'image_banner',
         content:
-          `<a href="https://your-link.com">
-            <img src="${baseUrl}img/haihabanner.png" 
+          `<a href="https://www.khoahocobsidian.com/">
+            <img src="https://i.imgur.com/2igOfUl.png" 
             alt="Banner" class="announcement-bar-image" />
           </a>`,
         backgroundColor: '#fafbfc',
