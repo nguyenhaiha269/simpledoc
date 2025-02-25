@@ -63,7 +63,7 @@ const config = {
         id: 'image_banner',
         content:
           `<a href="">
-            <img src="https://i.imgur.com/xr3eNIX.png" 
+            <img src="https://i.imgur.com/QSbnWRk.png" 
             alt="Banner" class="announcement-bar-image" />
           </a>`,
         backgroundColor: '#fafbfc',
