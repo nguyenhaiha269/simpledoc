@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/HVAC/Hệ điều hòa VRV.md",
+                "file": "docs/HVAC/Untitled.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Hệ điều hòa VRV"
+              "title": "Untitled"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/HVAC/Hệ điều hòa VRV.md",
+                "file": "docs/HVAC/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hệ điều hòa VRV"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/HVAC/Hệ điều hòa VRV.md",
+                "file": "docs/HVAC/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Hệ điều hòa VRV"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/HVAC/Hệ điều hòa VRV.md",
+                "file": "docs/HVAC/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hệ điều hòa VRV"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -170,6 +170,8 @@
   },
   "active": "1a204240e3a10432",
   "lastOpenFiles": [
+    "docs/HVAC/Hệ điều hòa VRV.md",
+    "docs/HVAC/Untitled.md",
     "static/img/haihabanner.png",
     "static/img/HAIHA_BANNER (1).png",
     "static/img/favicon.ico",
@@ -183,7 +185,6 @@
     "docs/ELT/congratulations.md",
     "docs/ELT",
     "docs/demo/index.md",
-    "docs/HVAC/Hệ điều hòa VRV.md",
     "docs/HVAC",
     "docs/chinh-phuc-dang-de-dien-tu-vao-cho-trong.md",
     "docs/bi-kip-luyen-listening-chong-diec-co-ban-den-nang-cao.md"
