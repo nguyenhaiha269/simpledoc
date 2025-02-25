@@ -2,6 +2,8 @@
 import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
+const baseUrl = '/simpledoc/';
+
 const config = {
   title: 'Electric source',
   tagline: 'Electrical!',
@@ -9,7 +11,7 @@ const config = {
 
   // Cấu hình URL chính xác để deploy trên GitHub Pages
   url: 'https://nguyenhaiha269.github.io',
-  baseUrl: '/simpledoc/',
+  baseUrl: baseUrl,
 
   // Cấu hình GitHub Pages để deploy đúng
   organizationName: 'nguyenhaiha269', // GitHub username của bạn
@@ -60,7 +62,10 @@ const config = {
       announcementBar: {
         id: 'image_banner',
         content:
-          '<a href="https://your-link.com"><img src="/img/haihabanner.png" alt="Banner" class="announcement-bar-image" /></a>',
+          `<a href="https://your-link.com">
+            <img src="${baseUrl}img/haihabanner.png" 
+            alt="Banner" class="announcement-bar-image" />
+          </a>`,
         backgroundColor: '#fafbfc',
         textColor: '#091E42',
         isCloseable: true,
@@ -120,13 +125,4 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Awesome Docusaurus, Inc. Built with Docusaurus.`,
-      },
-      prism: {
-        theme: prismThemes.github,
-        darkTheme: prismThemes.dracula,
-      },
-    }),
-};
-
-export default config;
+        copyright: `Copyright © ${new Date().getFullYear()} Awesome Docus
