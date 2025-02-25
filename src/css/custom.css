@@ -104,7 +104,7 @@ div[class^='announcementBar_'] {
   width: 100%; /* Ảnh sẽ rộng tối đa */
   max-width: 1200px; /* Giới hạn chiều rộng tối đa */
   height: auto; /* Giữ tỉ lệ ảnh */
-  max-height: 130px; /* Giới hạn chiều cao */
+  max-height: 250px; /* Giới hạn chiều cao */
   display: block;
   margin: auto;
   object-fit: contain; /* Đảm bảo ảnh vừa với banner */
