@@ -30,25 +30,23 @@
 }
 
 /* CÀI ĐẶT FONT CHỮ */
-
-/* Nạp font chữ Google để sử dụng. Ở đây là font Roboto cho kiểu chữ ko chân dễ nhìn */
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
 /* Áp dụng font chữ Roboto cho toàn bộ trang */
 body {
-  font-family: 'Roboto', sans-serif; /* Set the font for the body */
-  line-height: 1.6; /* Optional: adjust line spacing */
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.6;
 }
 
 /* Style for headings */
 h1 {
-  font-size: 2.1em; /* Adjust as needed */
-  font-weight: 700; /* Bold weight for h1 */
+  font-size: 2.1em;
+  font-weight: 700;
 }
 
 h2 {
-  font-size: 1.8em; /* Adjust as needed */
-  font-weight: 600; /* Semi-bold weight for h2 */
+  font-size: 1.8em;
+  font-weight: 600;
 }
 
 /* Thay đổi cỡ chữ tiêu đề Blog */
@@ -58,58 +56,68 @@ html.plugin-blog.blog-post-page h1 {
 }
 
 h3 {
-  font-size: 1.5em; /* Adjust as needed */
-  font-weight: 600; /* Semi-bold weight for h3 */
+  font-size: 1.5em;
+  font-weight: 600;
 }
 
 /* Style for other elements */
 p {
-  font-size: 1em; /* Default font size for paragraphs */
+  font-size: 1em;
 }
 
 a {
-  color: #5cb860; /* Default link color (Google blue) */
-  text-decoration: none; /* No underline */
+  color: #5cb860;
+  text-decoration: none;
 }
 
 a:hover {
-  text-decoration: underline; /* Underline on hover */
+  text-decoration: underline;
 }
 
 /* Adjust margin and padding for a clean layout */
 section {
-  padding: 2em 1em; /* Adjust padding for sections */
+  padding: 2em 1em;
 }
 
 .navbar__item {
-  margin-right: 1.1em; /* Adjust margin between navbar items */
+  margin-right: 1.1em;
 }
 
-/* THIẾT LẬP BANNER THÔNG BÁO Ở ĐẦU TRANG */
-/* Use background image banner */
+/* ===== THIẾT LẬP BANNER THÔNG BÁO Ở ĐẦU TRANG ===== */
+/* Định dạng khu vực banner */
 div[class^='announcementBar_'] {
   font-size: 20px;
-
-  background: #ffffff; /* Change background to solid white */
+  background: #ffffff; /* Giữ nền trắng */
   font-weight: bold;
-
+  
   display: flex;
   justify-content: center;
   align-items: center;
   padding: 0;
-  height: auto;
-  max-height: none; /* Ensure the announcement bar does not limit the height */
-  text-align: center; /* Center align text and inline elements */
+  height: 150px; /* Tăng chiều cao của banner */
+  max-height: none;
+  text-align: center;
 }
 
-/* Ensure the image displays at its full height */
+/* Định dạng hình ảnh trong banner */
 .announcement-bar-image {
-  width: auto;
-  height: auto;
-  max-width: 100%;
-  max-height: 100%;
-  display: block; /* Ensure the image is displayed as a block element */
-  margin: auto; /* Center the image */
+  width: 100%; /* Ảnh sẽ rộng tối đa */
+  max-width: 1200px; /* Giới hạn chiều rộng tối đa */
+  height: auto; /* Giữ tỉ lệ ảnh */
+  max-height: 130px; /* Giới hạn chiều cao */
+  display: block;
+  margin: auto;
+  object-fit: contain; /* Đảm bảo ảnh vừa với banner */
 }
 
-/* KẾT THÚC THIẾT LẬP BANNER THÔNG BÁO */
+/* Khi ở màn hình nhỏ, giảm chiều cao banner */
+@media (max-width: 768px) {
+  div[class^='announcementBar_'] {
+    height: 100px; /* Giảm chiều cao banner */
+  }
+
+  .announcement-bar-image {
+    max-height: 90px; /* Giới hạn chiều cao ảnh */
+  }
+}
+/* ===== KẾT THÚC THIẾT LẬP BANNER ===== */
