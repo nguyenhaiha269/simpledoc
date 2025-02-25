@@ -3,8 +3,8 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Awesome Docusaurus',
-  tagline: 'Dinosaurs thật tuyệt vời!',
+  title: 'Electric source',
+  tagline: 'Electrical!',
   favicon: 'img/favicon.ico',
 
   // Cấu hình URL chính xác để deploy trên GitHub Pages
