@@ -62,7 +62,7 @@ const config = {
       announcementBar: {
         id: 'image_banner',
         content:
-          `<a href="https://www.khoahocobsidian.com/">
+          `<a href="">
             <img src="https://i.imgur.com/2igOfUl.png" 
             alt="Banner" class="announcement-bar-image" />
           </a>`,
