@@ -60,7 +60,7 @@ const config = {
       announcementBar: {
         id: 'image_banner',
         content:
-          '<a href="https://vnstocks.com/lp-khoa-hoc-python-chung-khoan"><img src="https://vnstocks.com/img/python_chung_khoan_banner.png" alt="Banner" class="announcement-bar-image" /></a>',
+          '<a href="https://your-link.com"><img src="/img/haihabanner.png" alt="Banner" class="announcement-bar-image" /></a>',
         backgroundColor: '#fafbfc',
         textColor: '#091E42',
         isCloseable: true,
