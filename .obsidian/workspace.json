@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/ELT/create-a-page.md",
+                "file": "docs/Access control/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "create-a-page"
+              "title": "Untitled"
             }
           }
         ]
@@ -170,6 +170,9 @@
   },
   "active": "1a204240e3a10432",
   "lastOpenFiles": [
+    "docs/ELT/create-a-page.md",
+    "docs/Access control/Untitled.md",
+    "docs/Access control",
     "docs/ELT/deploy-your-site.md",
     "docs/Solar _ PV/Untitled.md",
     "docs/HVAC/Untitled.md",
@@ -181,7 +184,6 @@
     "static/img/NHH.svg",
     "docs/ELT/_category_.json",
     "docs/ELT/markdown-features.mdx",
-    "docs/ELT/create-a-page.md",
     "docs/ELT/create-a-document.md",
     "docs/ELT/create-a-blog-post.md",
     "docs/ELT/congratulations.md",

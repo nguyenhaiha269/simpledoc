@@ -1,12 +1,12 @@
 yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+  name: Nguyễn Hải Hà
+  title: Electrical Engineer
+  url: https://www.facebook.com/hahtd3
+  image_url: https://imgur.com/BIt26hq
   page: true
   socials:
-    x: yangshunz
-    github: yangshun
+    x: nguyenhaiha
+    github: ynguyenhaiha
 
 slorber:
   name: Sébastien Lorber
