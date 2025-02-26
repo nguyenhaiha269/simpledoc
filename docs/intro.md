@@ -4,5 +4,6 @@ sidebar_position: 1
 
 # Danh sách tài liệu tham khảo
 
-[Access control](..Access%20control/Access-control)
+[Access Control](/docs/Access-control/Access-control)
+
 

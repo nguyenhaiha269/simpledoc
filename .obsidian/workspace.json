@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Access control/Access-control.md",
+                "file": "docs/intro.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Access-control"
+              "title": "intro"
             }
           }
         ]
@@ -170,8 +170,8 @@
   },
   "active": "534443b5ff67366c",
   "lastOpenFiles": [
-    "docs/intro.md",
     "docs/Access control/Access-control.md",
+    "docs/intro.md",
     "blog/2021-08-26-welcome/index.md",
     "blog/2025-02-26-long-blog-post.md",
     "blog/2019-05-28-first-blog-post.md",
