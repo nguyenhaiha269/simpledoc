@@ -1,5 +1,5 @@
 ---
-title: KHOẢNG CÁCH CÁC ĐẦU BÁO CHÁY
+title: khoảng cách các đầu báo cháy
 aliases:
   - khoảng cách lắp đặt các đầu báo cháy
 tags:

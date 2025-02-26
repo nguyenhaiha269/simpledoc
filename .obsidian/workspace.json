@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/intro.md",
+                "file": "docs/ELT/FA/khoảng cách đầu báo cháy.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "intro"
+              "title": "khoảng cách đầu báo cháy"
             }
           }
         ]
@@ -168,17 +168,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9108f5179566928",
+  "active": "534443b5ff67366c",
   "lastOpenFiles": [
+    "docs/intro.md",
+    "docs/ELT/FA/Untitled.md",
     "docs/ELT/Grounding-Lightining",
     "docs/ELT/New folder",
     "docs/ELT/FA/NUT-AN-BAO-CHAY.md",
     "docs/ELT/FA/khoang-cach-dau-bao-den-mieng-gio.md",
     "docs/ELT/FA/bao-chay-tren-tran-gia.md",
     "docs/ELT/FA/bao-chay-phong-dieu-khien-chua-chay-tu-dong.md",
-    "docs/ELT/FA/BANG-LAP-DAT-DAU-BAO-CHAY.md",
-    "docs/intro.md",
-    "docs/ELT/FA/Untitled.md",
+    "docs/ELT/FA/khoảng cách đầu báo cháy.md",
     "docs/ELT/FA",
     "docs/Access control/Access-control.md",
     "blog/2021-08-26-welcome/index.md",
