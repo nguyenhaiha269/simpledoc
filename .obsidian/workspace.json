@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Solar _ PV/Untitled.md",
+                "file": "docs/ELT/create-a-page.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "create-a-page"
             }
           }
         ]
@@ -168,10 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9108f5179566928",
+  "active": "1a204240e3a10432",
   "lastOpenFiles": [
-    "docs/HVAC/Untitled.md",
+    "docs/ELT/deploy-your-site.md",
     "docs/Solar _ PV/Untitled.md",
+    "docs/HVAC/Untitled.md",
     "docs/Solar _ PV",
     "docs/HVAC/Hệ điều hòa VRV.md",
     "static/img/haihabanner.png",
@@ -180,7 +181,6 @@
     "static/img/NHH.svg",
     "docs/ELT/_category_.json",
     "docs/ELT/markdown-features.mdx",
-    "docs/ELT/deploy-your-site.md",
     "docs/ELT/create-a-page.md",
     "docs/ELT/create-a-document.md",
     "docs/ELT/create-a-blog-post.md",
