@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/HVAC/Untitled.md",
+                "file": "docs/ELT/Solar _ PV/Untitled.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Untitled"
@@ -170,8 +170,10 @@
   },
   "active": "1a204240e3a10432",
   "lastOpenFiles": [
-    "docs/HVAC/Hệ điều hòa VRV.md",
     "docs/HVAC/Untitled.md",
+    "docs/ELT/Solar _ PV/Untitled.md",
+    "docs/ELT/Solar _ PV",
+    "docs/HVAC/Hệ điều hòa VRV.md",
     "static/img/haihabanner.png",
     "static/img/HAIHA_BANNER (1).png",
     "static/img/favicon.ico",
