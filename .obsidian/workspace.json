@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/intro.md",
+                "file": "blog/2025-02-26-long-blog-post.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "intro"
+              "title": "2025-02-26-long-blog-post"
             }
           }
         ]
@@ -170,6 +170,9 @@
   },
   "active": "1a204240e3a10432",
   "lastOpenFiles": [
+    "blog/2019-05-28-first-blog-post.md",
+    "blog/2025-02-26-long-blog-post.md",
+    "docs/intro.md",
     "docs/Access control/Untitled.md",
     "docs/ELT/create-a-page.md",
     "docs/Access control",
