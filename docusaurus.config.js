@@ -81,7 +81,7 @@ const config = {
         items: [
           { to: '/docs/intro', position: 'left', label: 'Tutorial' },
           { to: '/blog', label: 'Blog', position: 'left' },
-          { to: '/docs/demo/', label: 'Thư viện mẫu', position: 'left' },
+          { to: '/docs/demo/', label: 'Standards', position: 'left' },
           { to: '/markdown-page', label: 'Trang Markdown', position: 'left' },
 
           // Thêm menu dropdown "Bộ thẻ (Deck)"
