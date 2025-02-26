@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/2025-02-26-long-blog-post.md",
+                "file": "blog/2021-08-26-welcome/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-26-long-blog-post"
+              "title": "index"
             }
           }
         ]
@@ -168,10 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a204240e3a10432",
+  "active": "f9108f5179566928",
   "lastOpenFiles": [
-    "blog/2019-05-28-first-blog-post.md",
     "blog/2025-02-26-long-blog-post.md",
+    "blog/2019-05-28-first-blog-post.md",
     "docs/intro.md",
     "docs/Access control/Untitled.md",
     "docs/ELT/create-a-page.md",

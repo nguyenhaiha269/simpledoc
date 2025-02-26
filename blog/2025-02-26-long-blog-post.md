@@ -1,8 +1,10 @@
 ---
 slug: long-blog-post
 title: blog1
-authors: haiha
-tags: [test, docusaurus]
+authors:
+  - haiha
+tags:
+  - docusaurus
 ---
 
 This is the summary of a very long blog post,
