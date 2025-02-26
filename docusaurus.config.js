@@ -73,10 +73,10 @@ const config = {
 
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Awesome Docusaurus',
+        title: 'ELECTRICAL',
         logo: {
-          alt: 'Awesome Docusaurus Logo',
-          src: 'img/logo.svg',
+          alt: 'ELECTRICAL KNOWLEDGE',
+          src: 'img/favicon.png',
         },
         items: [
           { to: '/docs/intro', position: 'left', label: 'Tutorial' },
