@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Dễ sử dụng',
+    title: 'Nơi bạn đang ghé thăm',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus được thiết kế để làm cho việc viết tài liệu và blog dễ dàng, thú vị với chi phí tối thiểu.
-        Bạn có thể chia sẻ website của mình hoàn toàn miễn phí với Github Pages, Google Firebase, Netlify hoàn toàn không tốn phí.
+        Nơi học tập và tìm hiểu các kiến thức khoa học kỹ thuật điện
       </>
     ),
   },
   {
-    title: 'Tập trung vào nội dung',
+    title: 'Nội dung học tập ',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus cho phép bạn tập trung vào tài liệu của mình mà không phải bận tâm những tác vụ cài đặt nhàm chán. 
-        Hãy bắt đầu soạn thảo tài liệu của bạn vào thư mục <code>docs</code>.
+        Các kiến thức về MEP, Các phần mềm cơ điện <code>docs</code>.
       </>
     ),
   },
   {
-    title: 'Mạnh mẽ với React',
+    title: 'Dùng để tra cứu',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Mở rộng hoặc tùy chỉnh bố cục trang web của bạn với React, sử dụng ChatGPT để tạo ra bố cục giao diện dễ dàng. 
-        Docusaurus có thể được mở rộng trong khi tái sử dụng cùng một header (đầu trang) và footer (chân trang).
+       Tra cứu nhanh các thông số và tài liệu chuyên nghành điện.
       </>
     ),
   },
