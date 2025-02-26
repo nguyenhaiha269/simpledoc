@@ -71,7 +71,7 @@ const config = {
         isCloseable: true,
       },
 
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/favicon.png',
       navbar: {
         title: 'ELECTRICAL',
         logo: {
