@@ -1,5 +1,6 @@
 ---
 title: Hệ thống access control
+slug: /access-control
 ---
 [link tham khảo](https://gte.com.vn/bo-mach-nguon-access-control-dung-cho-he-thong-kiem-soat-cua) 
 
