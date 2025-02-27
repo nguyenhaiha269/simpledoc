@@ -1,4 +1,4 @@
-# Thư viện mẫu
+# Standards
 
 ## Thư viện ảnh - Image Gallery
 
