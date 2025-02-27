@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/ENGLISH/LINH/Unit_1.md",
+                "file": "docs/ENGLISH/LINH/Book Gold A2.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Unit_1"
+              "title": "Book Gold A2"
             }
           }
         ]
@@ -170,8 +170,9 @@
   },
   "active": "534443b5ff67366c",
   "lastOpenFiles": [
-    "docs/ELT/FA/khoảng cách đầu báo cháy.md",
     "docs/ENGLISH/LINH/Unit_1.md",
+    "docs/ENGLISH/LINH/Book Gold A2.md",
+    "docs/ELT/FA/khoảng cách đầu báo cháy.md",
     "docs/ENGLISH/LINH",
     "docs/ENGLISH",
     "docs/decks/thcs.md",
@@ -209,7 +210,6 @@
     "blog/2025-02-26-long-blog-post.md",
     "blog/2019-05-28-first-blog-post.md",
     "docs/ELT/create-a-page.md",
-    "docs/ELT/deploy-your-site.md",
     "static/img/haihabanner.png",
     "static/img/HAIHA_BANNER (1).png",
     "static/img/NHH.svg"
