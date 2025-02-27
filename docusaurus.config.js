@@ -81,24 +81,8 @@ const config = {
         items: [
           { to: '/docs/intro', position: 'left', label: 'Tutorial' },
           { to: '/blog', label: 'Blog', position: 'left' },
-          { to: '/docs/demo/', label: 'Standards', position: 'left' },
+          { to: '/docs/demo/', label: 'Thư viện mẫu', position: 'left' },
           { to: '/markdown-page', label: 'Trang Markdown', position: 'left' },
-
-          // Thêm menu dropdown "Bộ thẻ (Deck)"
-          {
-            label: 'Bộ thẻ (Deck)', // Tiêu đề menu dropdown
-            position: 'left',
-            items: [
-              { label: 'Ngoại ngữ - Tiếng Anh', to: '/decks/english' },
-              { label: 'Ngoại ngữ - Tiếng Trung', to: '/decks/chinese' },
-              { label: 'Ngoại ngữ - Tiếng Nhật', to: '/decks/japanese' },
-              { label: 'Ngoại ngữ - Tiếng Hàn', to: '/decks/korean' },
-              { label: 'Ngoại ngữ - Tiếng Pháp', to: '/decks/french' },
-              { label: 'Y Dược', to: '/decks/medical' },
-              { label: 'THPT', to: '/decks/thpt' },
-              { label: 'THCS', to: '/decks/thcs' },
-            ],
-          },
 
           { href: 'https://github.com/nguyenhaiha269/simpledoc', label: 'GitHub', position: 'right' },
         ],
