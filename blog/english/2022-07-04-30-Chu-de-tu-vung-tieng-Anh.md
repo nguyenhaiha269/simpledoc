@@ -13,14 +13,3 @@ tags:
 
 import YouTubeEmbed from '@site/src/components/YouTubeEmbed';
 
-<YouTubeEmbed videoId="GpFwGoKSs3M" />
-
-<!--truncate-->
-
-## Nguồn
-
-Bộ thẻ do một thành viên nữ giấu tên của group Anki Việt Nam biên soạn.
-
-## 🔗 Tải xuống
-
-### [⏬ Google Drive (ankivn)](https://drive.google.com/file/d/1BLMf9Vbnpz8dS8d8pckAS2lJW_vm2vZ6/view?usp=sharing)
