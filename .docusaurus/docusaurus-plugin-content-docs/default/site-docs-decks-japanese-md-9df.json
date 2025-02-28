@@ -1,0 +1,24 @@
+{
+  "id": "decks/japanese",
+  "title": "japanese",
+  "description": "",
+  "source": "@site/docs/decks/japanese.md",
+  "sourceDirName": "decks",
+  "slug": "/decks/japanese",
+  "permalink": "/simpledoc/docs/decks/japanese",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nguyenhaiha269/simpledoc/edit/main/docs/decks/japanese.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "french",
+    "permalink": "/simpledoc/docs/decks/french"
+  },
+  "next": {
+    "title": "medical",
+    "permalink": "/simpledoc/docs/decks/medical"
+  }
+}

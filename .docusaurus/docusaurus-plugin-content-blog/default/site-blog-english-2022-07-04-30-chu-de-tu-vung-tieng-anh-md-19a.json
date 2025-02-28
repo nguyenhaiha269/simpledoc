@@ -1,0 +1,48 @@
+{
+  "permalink": "/simpledoc/blog/Chu-de-tu-vung-tieng-Anh",
+  "editUrl": "https://github.com/nguyenhaiha269/simpledoc/edit/main/blog/english/2022-07-04-30-Chu-de-tu-vung-tieng-Anh.md",
+  "source": "@site/blog/english/2022-07-04-30-Chu-de-tu-vung-tieng-Anh.md",
+  "title": "Chủ đề từ vựng tiếng Anh",
+  "description": "",
+  "date": "2022-07-04T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "Deck",
+      "permalink": "/simpledoc/blog/tags/deck",
+      "description": "Các bài viết liên quan đến Deck"
+    },
+    {
+      "inline": false,
+      "label": "English",
+      "permalink": "/simpledoc/blog/tags/english",
+      "description": "Các bộ thẻ tiếng Anh"
+    }
+  ],
+  "readingTime": 0.025,
+  "hasTruncateMarker": false,
+  "authors": [],
+  "frontMatter": {
+    "title": "Chủ đề từ vựng tiếng Anh",
+    "slug": "Chu-de-tu-vung-tieng-Anh",
+    "date": "2022-07-04T00:00:00.000Z",
+    "description": "",
+    "domain": "ankivn.com",
+    "keywords": [
+      "ankivn"
+    ],
+    "tags": [
+      "deck",
+      "english"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "từ vựng và Hán tự HSK 1-6",
+    "permalink": "/simpledoc/blog/tu-vung-va-Han-tu-HSK-1-6"
+  },
+  "nextItem": {
+    "title": "Welcome",
+    "permalink": "/simpledoc/blog/welcome"
+  }
+}

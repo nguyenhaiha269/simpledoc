@@ -1,0 +1,41 @@
+{
+  "id": "HVAC/Hệ điều hòa VRV",
+  "title": "Tổng quan hệ thống điều hòa VRV",
+  "description": "",
+  "source": "@site/docs/HVAC/Hệ điều hòa VRV.md",
+  "sourceDirName": "HVAC",
+  "slug": "/HVAC/Hệ điều hòa VRV",
+  "permalink": "/simpledoc/docs/HVAC/Hệ điều hòa VRV",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nguyenhaiha269/simpledoc/edit/main/docs/HVAC/Hệ điều hòa VRV.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "HVAC",
+      "permalink": "/simpledoc/docs/tags/hvac"
+    },
+    {
+      "inline": true,
+      "label": "VRV",
+      "permalink": "/simpledoc/docs/tags/vrv"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Tổng quan hệ thống điều hòa VRV",
+    "tags": [
+      "HVAC",
+      "VRV"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Unit_1",
+    "permalink": "/simpledoc/docs/ENGLISH/LINH/Unit_1"
+  },
+  "next": {
+    "title": "Untitled",
+    "permalink": "/simpledoc/docs/HVAC/Untitled"
+  }
+}

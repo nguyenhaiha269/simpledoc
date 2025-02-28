@@ -1,0 +1,49 @@
+{
+  "permalink": "/simpledoc/blog/long-blog-post",
+  "editUrl": "https://github.com/nguyenhaiha269/simpledoc/edit/main/blog/2025-02-26-long-blog-post.md",
+  "source": "@site/blog/2025-02-26-long-blog-post.md",
+  "title": "blog1",
+  "description": "This is the summary of a very long blog post,",
+  "date": "2025-02-26T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "Docusaurus",
+      "permalink": "/simpledoc/blog/tags/docusaurus",
+      "description": "Docusaurus tag description"
+    }
+  ],
+  "readingTime": 2.06,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Nguyễn Hải Hà",
+      "title": "Electrical Engineer",
+      "url": "https://www.facebook.com/hahtd3",
+      "page": {
+        "permalink": "/simpledoc/blog/authors/haiha"
+      },
+      "socials": {
+        "x": "https://x.com/nguyenhaiha",
+        "github": "https://github.com/nguyenhaiha"
+      },
+      "imageURL": "https://i.imgur.com/BIt26hq.png",
+      "key": "haiha"
+    }
+  ],
+  "frontMatter": {
+    "slug": "long-blog-post",
+    "title": "blog1",
+    "authors": [
+      "haiha"
+    ],
+    "tags": [
+      "docusaurus"
+    ]
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "từ vựng và Hán tự HSK 1-6",
+    "permalink": "/simpledoc/blog/tu-vung-va-Han-tu-HSK-1-6"
+  }
+}

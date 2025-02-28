@@ -1,0 +1,42 @@
+{
+  "id": "ELT/FA/bao-chay-phong-dieu-khien-chua-chay-tu-dong",
+  "title": "báo cháy phòng điện, phòng máy phát",
+  "description": "",
+  "source": "@site/docs/ELT/FA/bao-chay-phong-dieu-khien-chua-chay-tu-dong.md",
+  "sourceDirName": "ELT/FA",
+  "slug": "/ELT/FA/bao-chay-phong-dieu-khien-chua-chay-tu-dong",
+  "permalink": "/simpledoc/docs/ELT/FA/bao-chay-phong-dieu-khien-chua-chay-tu-dong",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nguyenhaiha269/simpledoc/edit/main/docs/ELT/FA/bao-chay-phong-dieu-khien-chua-chay-tu-dong.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "FA",
+      "permalink": "/simpledoc/docs/tags/fa"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "báo cháy phòng điện, phòng máy phát",
+    "aliases": [
+      "qui định đặt đầu báo cháy tại phòng có điều khiển chữa cháy tự động"
+    ],
+    "tags": [
+      "FA"
+    ],
+    "date": null,
+    "url": null,
+    "author": null,
+    "Releated": null
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Nút ấn báo cháy",
+    "permalink": "/simpledoc/docs/ELT/FA/NUT-AN-BAO-CHAY"
+  },
+  "next": {
+    "title": "đầu báo cháy trên trần giả",
+    "permalink": "/simpledoc/docs/ELT/FA/bao-chay-tren-tran-gia"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ELT/markdown-features",
+  "title": "Các Tính Năng của Markdown",
+  "description": "Docusaurus hỗ trợ Markdown và một vài tính năng bổ sung.",
+  "source": "@site/docs/ELT/markdown-features.mdx",
+  "sourceDirName": "ELT",
+  "slug": "/ELT/markdown-features",
+  "permalink": "/simpledoc/docs/ELT/markdown-features",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nguyenhaiha269/simpledoc/edit/main/docs/ELT/markdown-features.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tạo Bài Viết Blog",
+    "permalink": "/simpledoc/docs/ELT/create-a-blog-post"
+  },
+  "next": {
+    "title": "Triển khai trang web của bạn",
+    "permalink": "/simpledoc/docs/ELT/deploy-your-site"
+  }
+}

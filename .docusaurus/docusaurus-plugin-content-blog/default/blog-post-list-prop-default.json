@@ -1,0 +1,35 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "blog1",
+      "permalink": "/simpledoc/blog/long-blog-post",
+      "unlisted": false,
+      "date": "2025-02-26T00:00:00.000Z"
+    },
+    {
+      "title": "từ vựng và Hán tự HSK 1-6",
+      "permalink": "/simpledoc/blog/tu-vung-va-Han-tu-HSK-1-6",
+      "unlisted": false,
+      "date": "2025-02-01T00:00:00.000Z"
+    },
+    {
+      "title": "Chủ đề từ vựng tiếng Anh",
+      "permalink": "/simpledoc/blog/Chu-de-tu-vung-tieng-Anh",
+      "unlisted": false,
+      "date": "2022-07-04T00:00:00.000Z"
+    },
+    {
+      "title": "Welcome",
+      "permalink": "/simpledoc/blog/welcome",
+      "unlisted": false,
+      "date": "2021-08-26T00:00:00.000Z"
+    },
+    {
+      "title": "MDX Blog Post",
+      "permalink": "/simpledoc/blog/mdx-blog-post",
+      "unlisted": false,
+      "date": "2021-08-01T00:00:00.000Z"
+    }
+  ]
+}

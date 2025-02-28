@@ -1,0 +1,28 @@
+{
+  "id": "decks/english",
+  "title": "Bộ thẻ Tiếng Anh",
+  "description": "Đây là danh sách các bộ thẻ Tiếng Anh có sẵn...",
+  "source": "@site/docs/decks/english.md",
+  "sourceDirName": "decks",
+  "slug": "/decks/english",
+  "permalink": "/simpledoc/docs/decks/english",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nguyenhaiha269/simpledoc/edit/main/docs/decks/english.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "english",
+    "title": "Bộ thẻ Tiếng Anh",
+    "slug": "/decks/english"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "chinese",
+    "permalink": "/simpledoc/docs/decks/chinese"
+  },
+  "next": {
+    "title": "french",
+    "permalink": "/simpledoc/docs/decks/french"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "decks/thcs",
+  "title": "thcs",
+  "description": "",
+  "source": "@site/docs/decks/thcs.md",
+  "sourceDirName": "decks",
+  "slug": "/decks/thcs",
+  "permalink": "/simpledoc/docs/decks/thcs",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nguyenhaiha269/simpledoc/edit/main/docs/decks/thcs.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "medical",
+    "permalink": "/simpledoc/docs/decks/medical"
+  },
+  "next": {
+    "title": "thpt",
+    "permalink": "/simpledoc/docs/decks/thpt"
+  }
+}

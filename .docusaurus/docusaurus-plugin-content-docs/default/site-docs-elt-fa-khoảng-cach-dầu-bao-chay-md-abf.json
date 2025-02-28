@@ -1,0 +1,60 @@
+{
+  "id": "ELT/FA/khoảng cách đầu báo cháy",
+  "title": "Khoảng cách các đầu báo cháy",
+  "description": "^kgxs94]]",
+  "source": "@site/docs/ELT/FA/khoảng cách đầu báo cháy.md",
+  "sourceDirName": "ELT/FA",
+  "slug": "/ELT/FA/khoảng cách đầu báo cháy",
+  "permalink": "/simpledoc/docs/ELT/FA/khoảng cách đầu báo cháy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nguyenhaiha269/simpledoc/edit/main/docs/ELT/FA/khoảng cách đầu báo cháy.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "TCVN5738",
+      "permalink": "/simpledoc/docs/tags/tcvn-5738"
+    },
+    {
+      "inline": true,
+      "label": "FA",
+      "permalink": "/simpledoc/docs/tags/fa"
+    },
+    {
+      "inline": true,
+      "label": "TABLE",
+      "permalink": "/simpledoc/docs/tags/table"
+    },
+    {
+      "inline": true,
+      "label": "KHOANG_CACH_DAU_BAO_CHAY",
+      "permalink": "/simpledoc/docs/tags/khoang-cach-dau-bao-chay"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Khoảng cách các đầu báo cháy",
+    "aliases": [
+      "khoảng cách lắp đặt các đầu báo cháy"
+    ],
+    "tags": [
+      "TCVN5738",
+      "FA",
+      "TABLE",
+      "KHOANG_CACH_DAU_BAO_CHAY"
+    ],
+    "date": null,
+    "url": null,
+    "author": null,
+    "Releated": null
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Khoảng cách đầu báo đến miệng gió",
+    "permalink": "/simpledoc/docs/ELT/FA/khoang-cach-dau-bao-den-mieng-gio"
+  },
+  "next": {
+    "title": "Tutorial - Extras",
+    "permalink": "/simpledoc/docs/category/tutorial---extras"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "ENGLISH/LINH/Unit_1",
+  "title": "Unit_1",
+  "description": "",
+  "source": "@site/docs/ENGLISH/LINH/Unit_1.md",
+  "sourceDirName": "ENGLISH/LINH",
+  "slug": "/ENGLISH/LINH/Unit_1",
+  "permalink": "/simpledoc/docs/ENGLISH/LINH/Unit_1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nguyenhaiha269/simpledoc/edit/main/docs/ENGLISH/LINH/Unit_1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Book Gold A2",
+    "permalink": "/simpledoc/docs/ENGLISH/LINH/Book Gold A2"
+  },
+  "next": {
+    "title": "Tổng quan hệ thống điều hòa VRV",
+    "permalink": "/simpledoc/docs/HVAC/Hệ điều hòa VRV"
+  }
+}
