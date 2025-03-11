@@ -1,0 +1,23 @@
+{
+  "id": "intro",
+  "title": "Danh sách tài liệu tham khảo",
+  "description": "",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/simpledoc/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nguyenhaiha269/simpledoc/edit/main/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "ELT",
+    "permalink": "/simpledoc/docs/category/elt"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "day-trung tính",
+  "title": "Mặt cắt dây trung tính tối thiểu",
+  "description": "Xem trong TCVB7447-5-52 ~ IEC 60364-5-52",
+  "source": "@site/docs/day-trung tính.md",
+  "sourceDirName": ".",
+  "slug": "/day-trung tính",
+  "permalink": "/simpledoc/docs/day-trung tính",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nguyenhaiha269/simpledoc/edit/main/docs/day-trung tính.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "day_trung_tinh",
+      "permalink": "/simpledoc/docs/tags/day-trung-tinh"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Mặt cắt dây trung tính tối thiểu",
+    "aliases": null,
+    "tags": [
+      "day_trung_tinh"
+    ],
+    "date": null,
+    "url": null,
+    "author": null,
+    "Releated": null
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "TCVN7114-1-2008",
+    "permalink": "/simpledoc/docs/TCVN7114-1-2008"
+  },
+  "next": {
+    "title": "chinese",
+    "permalink": "/simpledoc/docs/decks/chinese"
+  }
+}

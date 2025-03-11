@@ -1,0 +1,27 @@
+{
+  "id": "ELT/deploy-your-site",
+  "title": "Triển khai trang web của bạn",
+  "description": "Docusaurus là một trình tạo trang tĩnh (cũng được gọi là Jamstack).",
+  "source": "@site/docs/ELT/deploy-your-site.md",
+  "sourceDirName": "ELT",
+  "slug": "/ELT/deploy-your-site",
+  "permalink": "/simpledoc/docs/ELT/deploy-your-site",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nguyenhaiha269/simpledoc/edit/main/docs/ELT/deploy-your-site.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Các Tính Năng của Markdown",
+    "permalink": "/simpledoc/docs/ELT/markdown-features"
+  },
+  "next": {
+    "title": "Xin chúc mừng!",
+    "permalink": "/simpledoc/docs/ELT/congratulations"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "decks/medical",
+  "title": "medical",
+  "description": "",
+  "source": "@site/docs/decks/medical.md",
+  "sourceDirName": "decks",
+  "slug": "/decks/medical",
+  "permalink": "/simpledoc/docs/decks/medical",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nguyenhaiha269/simpledoc/edit/main/docs/decks/medical.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "japanese",
+    "permalink": "/simpledoc/docs/decks/japanese"
+  },
+  "next": {
+    "title": "thcs",
+    "permalink": "/simpledoc/docs/decks/thcs"
+  }
+}

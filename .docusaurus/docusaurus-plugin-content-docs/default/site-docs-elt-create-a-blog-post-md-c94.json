@@ -1,0 +1,27 @@
+{
+  "id": "ELT/create-a-blog-post",
+  "title": "Tạo Bài Viết Blog",
+  "description": "Docusaurus tạo ra một trang cho mỗi bài viết blog, cùng với trang chỉ mục blog, hệ thống thẻ tag, nguồn cấp RSS...",
+  "source": "@site/docs/ELT/create-a-blog-post.md",
+  "sourceDirName": "ELT",
+  "slug": "/ELT/create-a-blog-post",
+  "permalink": "/simpledoc/docs/ELT/create-a-blog-post",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nguyenhaiha269/simpledoc/edit/main/docs/ELT/create-a-blog-post.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tạo Tài Liệu",
+    "permalink": "/simpledoc/docs/ELT/create-a-document"
+  },
+  "next": {
+    "title": "Các Tính Năng của Markdown",
+    "permalink": "/simpledoc/docs/ELT/markdown-features"
+  }
+}

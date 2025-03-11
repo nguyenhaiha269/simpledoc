@@ -1,0 +1,26 @@
+{
+  "id": "Solar _ PV/Untitled",
+  "title": " Trang web học về PV System",
+  "description": "https://www.greenrhinoenergy.com/training/courses/pvsyst.php",
+  "source": "@site/docs/Solar _ PV/Untitled.md",
+  "sourceDirName": "Solar _ PV",
+  "slug": "/Solar _ PV/Untitled",
+  "permalink": "/simpledoc/docs/Solar _ PV/Untitled",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nguyenhaiha269/simpledoc/edit/main/docs/Solar _ PV/Untitled.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": " Trang web học về PV System"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Untitled",
+    "permalink": "/simpledoc/docs/HVAC/Untitled"
+  },
+  "next": {
+    "title": "TCVN7114-1-2008",
+    "permalink": "/simpledoc/docs/TCVN7114-1-2008"
+  }
+}

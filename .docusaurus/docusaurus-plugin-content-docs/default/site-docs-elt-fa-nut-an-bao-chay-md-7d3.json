@@ -1,0 +1,48 @@
+{
+  "id": "ELT/FA/NUT-AN-BAO-CHAY",
+  "title": "Nút ấn báo cháy",
+  "description": "Khoảng cách giữa các nút ấn báo cháy không quá 45m",
+  "source": "@site/docs/ELT/FA/NUT-AN-BAO-CHAY.md",
+  "sourceDirName": "ELT/FA",
+  "slug": "/ELT/FA/NUT-AN-BAO-CHAY",
+  "permalink": "/simpledoc/docs/ELT/FA/NUT-AN-BAO-CHAY",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nguyenhaiha269/simpledoc/edit/main/docs/ELT/FA/NUT-AN-BAO-CHAY.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "TCVN5738",
+      "permalink": "/simpledoc/docs/tags/tcvn-5738"
+    },
+    {
+      "inline": true,
+      "label": "NUT_AN_BAO_CHAY",
+      "permalink": "/simpledoc/docs/tags/nut-an-bao-chay"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Nút ấn báo cháy",
+    "aliases": [
+      "Nút ấn báo cháy"
+    ],
+    "tags": [
+      "TCVN5738",
+      "NUT_AN_BAO_CHAY"
+    ],
+    "date": null,
+    "url": null,
+    "author": null,
+    "Releated": null
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Xin chúc mừng!",
+    "permalink": "/simpledoc/docs/ELT/congratulations"
+  },
+  "next": {
+    "title": "báo cháy phòng điện, phòng máy phát",
+    "permalink": "/simpledoc/docs/ELT/FA/bao-chay-phong-dieu-khien-chua-chay-tu-dong"
+  }
+}

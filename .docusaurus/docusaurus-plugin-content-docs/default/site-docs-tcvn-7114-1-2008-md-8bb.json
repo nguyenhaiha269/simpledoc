@@ -1,0 +1,24 @@
+{
+  "id": "TCVN7114-1-2008",
+  "title": "TCVN7114-1-2008",
+  "description": "TIÊU CHUẨN QUỐC GIA",
+  "source": "@site/docs/TCVN7114-1-2008.md",
+  "sourceDirName": ".",
+  "slug": "/TCVN7114-1-2008",
+  "permalink": "/simpledoc/docs/TCVN7114-1-2008",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nguyenhaiha269/simpledoc/edit/main/docs/TCVN7114-1-2008.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": " Trang web học về PV System",
+    "permalink": "/simpledoc/docs/Solar _ PV/Untitled"
+  },
+  "next": {
+    "title": "Mặt cắt dây trung tính tối thiểu",
+    "permalink": "/simpledoc/docs/day-trung tính"
+  }
+}
