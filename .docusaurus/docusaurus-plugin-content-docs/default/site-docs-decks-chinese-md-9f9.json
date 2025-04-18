@@ -1,0 +1,24 @@
+{
+  "id": "decks/chinese",
+  "title": "chinese",
+  "description": "",
+  "source": "@site/docs/decks/chinese.md",
+  "sourceDirName": "decks",
+  "slug": "/decks/chinese",
+  "permalink": "/simpledoc/docs/decks/chinese",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nguyenhaiha269/simpledoc/edit/main/docs/decks/chinese.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mặt cắt dây trung tính tối thiểu",
+    "permalink": "/simpledoc/docs/day-trung tính"
+  },
+  "next": {
+    "title": "Bộ thẻ Tiếng Anh",
+    "permalink": "/simpledoc/docs/decks/english"
+  }
+}

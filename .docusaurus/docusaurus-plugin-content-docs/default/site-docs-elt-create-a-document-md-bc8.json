@@ -1,0 +1,27 @@
+{
+  "id": "ELT/create-a-document",
+  "title": "Tạo Tài Liệu",
+  "description": "Tài liệu là nhóm các trang được kết nối qua:",
+  "source": "@site/docs/ELT/create-a-document.md",
+  "sourceDirName": "ELT",
+  "slug": "/ELT/create-a-document",
+  "permalink": "/simpledoc/docs/ELT/create-a-document",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nguyenhaiha269/simpledoc/edit/main/docs/ELT/create-a-document.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tạo Trang",
+    "permalink": "/simpledoc/docs/ELT/create-a-page"
+  },
+  "next": {
+    "title": "Tạo Bài Viết Blog",
+    "permalink": "/simpledoc/docs/ELT/create-a-blog-post"
+  }
+}

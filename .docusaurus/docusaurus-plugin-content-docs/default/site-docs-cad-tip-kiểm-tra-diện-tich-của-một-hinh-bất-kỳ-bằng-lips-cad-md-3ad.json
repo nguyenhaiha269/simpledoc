@@ -1,0 +1,40 @@
+{
+  "id": "CAD TIP/kiểm tra diện tích của một hình bất kỳ bằng lips cad",
+  "title": "kiểm tra diện tích của một hình bất kỳ bằng lips cad",
+  "description": "",
+  "source": "@site/docs/CAD TIP/kiểm tra diện tích của một hình bất kỳ bằng lips cad.md",
+  "sourceDirName": "CAD TIP",
+  "slug": "/CAD TIP/kiểm tra diện tích của một hình bất kỳ bằng lips cad",
+  "permalink": "/simpledoc/docs/CAD TIP/kiểm tra diện tích của một hình bất kỳ bằng lips cad",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nguyenhaiha269/simpledoc/edit/main/docs/CAD TIP/kiểm tra diện tích của một hình bất kỳ bằng lips cad.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "nontag",
+      "permalink": "/simpledoc/docs/tags/nontag"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "kiểm tra diện tích của một hình bất kỳ bằng lips cad",
+    "aliases": null,
+    "tags": [
+      "nontag"
+    ],
+    "date": null,
+    "url": null,
+    "author": null,
+    "Releated": null
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WIPEOUT",
+    "permalink": "/simpledoc/docs/CAD TIP/WIPEOUT"
+  },
+  "next": {
+    "title": "Book Gold A2",
+    "permalink": "/simpledoc/docs/ENGLISH/LINH/Book Gold A2"
+  }
+}

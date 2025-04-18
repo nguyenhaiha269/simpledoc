@@ -1,0 +1,24 @@
+{
+  "id": "ENGLISH/LINH/Book Gold A2",
+  "title": "Book Gold A2",
+  "description": "",
+  "source": "@site/docs/ENGLISH/LINH/Book Gold A2.md",
+  "sourceDirName": "ENGLISH/LINH",
+  "slug": "/ENGLISH/LINH/Book Gold A2",
+  "permalink": "/simpledoc/docs/ENGLISH/LINH/Book Gold A2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nguyenhaiha269/simpledoc/edit/main/docs/ENGLISH/LINH/Book Gold A2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "kiểm tra diện tích của một hình bất kỳ bằng lips cad",
+    "permalink": "/simpledoc/docs/CAD TIP/kiểm tra diện tích của một hình bất kỳ bằng lips cad"
+  },
+  "next": {
+    "title": "Unit_1",
+    "permalink": "/simpledoc/docs/ENGLISH/LINH/Unit_1"
+  }
+}

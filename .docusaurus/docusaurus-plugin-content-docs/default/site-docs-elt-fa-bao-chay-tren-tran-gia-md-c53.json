@@ -1,0 +1,48 @@
+{
+  "id": "ELT/FA/bao-chay-tren-tran-gia",
+  "title": "đầu báo cháy trên trần giả",
+  "description": "",
+  "source": "@site/docs/ELT/FA/bao-chay-tren-tran-gia.md",
+  "sourceDirName": "ELT/FA",
+  "slug": "/ELT/FA/bao-chay-tren-tran-gia",
+  "permalink": "/simpledoc/docs/ELT/FA/bao-chay-tren-tran-gia",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nguyenhaiha269/simpledoc/edit/main/docs/ELT/FA/bao-chay-tren-tran-gia.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "FA",
+      "permalink": "/simpledoc/docs/tags/fa"
+    },
+    {
+      "inline": true,
+      "label": "tran-gia",
+      "permalink": "/simpledoc/docs/tags/tran-gia"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "đầu báo cháy trên trần giả",
+    "aliases": [
+      "Qui định lắp đặt đầu báo cháy trên trần giả"
+    ],
+    "tags": [
+      "FA",
+      "tran-gia"
+    ],
+    "date": null,
+    "url": null,
+    "author": null,
+    "Releated": null
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "báo cháy phòng điện, phòng máy phát",
+    "permalink": "/simpledoc/docs/ELT/FA/bao-chay-phong-dieu-khien-chua-chay-tu-dong"
+  },
+  "next": {
+    "title": "Khoảng cách đầu báo đến miệng gió",
+    "permalink": "/simpledoc/docs/ELT/FA/khoang-cach-dau-bao-den-mieng-gio"
+  }
+}

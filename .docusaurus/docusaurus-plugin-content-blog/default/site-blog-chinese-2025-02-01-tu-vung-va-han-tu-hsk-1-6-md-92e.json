@@ -1,0 +1,48 @@
+{
+  "permalink": "/simpledoc/blog/tu-vung-va-Han-tu-HSK-1-6",
+  "editUrl": "https://github.com/nguyenhaiha269/simpledoc/edit/main/blog/chinese/2025-02-01-tu-vung-va-Han-tu-HSK-1-6.md",
+  "source": "@site/blog/chinese/2025-02-01-tu-vung-va-Han-tu-HSK-1-6.md",
+  "title": "từ vựng và Hán tự HSK 1-6",
+  "description": "",
+  "date": "2025-02-01T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "Deck",
+      "permalink": "/simpledoc/blog/tags/deck",
+      "description": "Các bài viết liên quan đến Deck"
+    },
+    {
+      "inline": false,
+      "label": "Tiếng Trung",
+      "permalink": "/simpledoc/blog/tags/chinese",
+      "description": "Các bộ thẻ tiếng Trung"
+    }
+  ],
+  "readingTime": 0.025,
+  "hasTruncateMarker": true,
+  "authors": [],
+  "frontMatter": {
+    "title": "từ vựng và Hán tự HSK 1-6",
+    "slug": "tu-vung-va-Han-tu-HSK-1-6",
+    "date": "2025-02-01T00:00:00.000Z",
+    "description": "",
+    "domain": "ankivn.com",
+    "keywords": [
+      "ankivn"
+    ],
+    "tags": [
+      "deck",
+      "chinese"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "blog1",
+    "permalink": "/simpledoc/blog/long-blog-post"
+  },
+  "nextItem": {
+    "title": "Chủ đề từ vựng tiếng Anh",
+    "permalink": "/simpledoc/blog/Chu-de-tu-vung-tieng-Anh"
+  }
+}

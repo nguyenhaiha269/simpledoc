@@ -1,0 +1,527 @@
+{
+  "/simpledoc/blog-b9e": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "47a28ee2"
+      },
+      {
+        "content": "f86892a5"
+      },
+      {
+        "content": "099087a7"
+      },
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "__props": "722f909e"
+  },
+  "/simpledoc/blog/archive-22e": {
+    "__comp": "9e4087bc",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "__props": "f0f3c080"
+  },
+  "/simpledoc/blog/authors-70c": {
+    "__comp": "621db11d",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "__props": "f3fd771c"
+  },
+  "/simpledoc/blog/authors/all-sebastien-lorber-articles-611": {
+    "__comp": "33fc5bb8",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "sidebar": "814f3328",
+    "__props": "f121273d"
+  },
+  "/simpledoc/blog/authors/haiha-10b": {
+    "__comp": "33fc5bb8",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "items": [
+      {
+        "content": "47a28ee2"
+      }
+    ],
+    "sidebar": "814f3328",
+    "__props": "1f7135e6"
+  },
+  "/simpledoc/blog/Chu-de-tu-vung-tieng-Anh-b6c": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "19a13f41"
+  },
+  "/simpledoc/blog/first-blog-post-4bb": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "e273c56f"
+  },
+  "/simpledoc/blog/long-blog-post-a9d": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "e422b695"
+  },
+  "/simpledoc/blog/mdx-blog-post-d64": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "59362658"
+  },
+  "/simpledoc/blog/tags-438": {
+    "__comp": "01a85c17",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "__props": "b05ad1b1"
+  },
+  "/simpledoc/blog/tags/chinese-fb4": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "f86892a5"
+      }
+    ],
+    "__props": "200e83a7"
+  },
+  "/simpledoc/blog/tags/deck-93d": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "f86892a5"
+      },
+      {
+        "content": "099087a7"
+      }
+    ],
+    "__props": "565601f6"
+  },
+  "/simpledoc/blog/tags/docusaurus-2c1": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "47a28ee2"
+      },
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "__props": "2e9cb091"
+  },
+  "/simpledoc/blog/tags/english-980": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "099087a7"
+      }
+    ],
+    "__props": "21184f93"
+  },
+  "/simpledoc/blog/tags/facebook-ca1": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      }
+    ],
+    "__props": "33264004"
+  },
+  "/simpledoc/blog/tags/hello-477": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      }
+    ],
+    "__props": "36e4b7cc"
+  },
+  "/simpledoc/blog/tags/hola-300": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "__props": "2012add9"
+  },
+  "/simpledoc/blog/tu-vung-va-Han-tu-HSK-1-6-e97": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "92e2425b"
+  },
+  "/simpledoc/blog/welcome-eca": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "d9f32620"
+  },
+  "/simpledoc/demo/about-73c": {
+    "__comp": "5af3fcb2",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "config": "5e9f5e1a"
+  },
+  "/simpledoc/demo/image-gallery-97c": {
+    "__comp": "6281507c",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "config": "5e9f5e1a"
+  },
+  "/simpledoc/demo/text-reveal-9c4": {
+    "__comp": "22af6a1c",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "config": "5e9f5e1a"
+  },
+  "/simpledoc/markdown-page-a0a": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "content": "393be207"
+  },
+  "/simpledoc/docs-e3a": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "aba21aa0"
+    }
+  },
+  "/simpledoc/docs-008": {
+    "__comp": "a7bd4aaa",
+    "__props": "578dc059"
+  },
+  "/simpledoc/docs/tags-481": {
+    "__comp": "3720c009",
+    "__props": "11f6cf6b"
+  },
+  "/simpledoc/docs/tags/cad-057": {
+    "__comp": "df203c0f",
+    "__props": "d3318e35"
+  },
+  "/simpledoc/docs/tags/day-trung-tinh-285": {
+    "__comp": "df203c0f",
+    "__props": "94656b4c"
+  },
+  "/simpledoc/docs/tags/fa-04d": {
+    "__comp": "df203c0f",
+    "__props": "75969fb6"
+  },
+  "/simpledoc/docs/tags/hvac-3e0": {
+    "__comp": "df203c0f",
+    "__props": "199f43f4"
+  },
+  "/simpledoc/docs/tags/khoang-cach-dau-bao-chay-46c": {
+    "__comp": "df203c0f",
+    "__props": "a1bd9879"
+  },
+  "/simpledoc/docs/tags/khoang-cach-den-mieng-gio-ce6": {
+    "__comp": "df203c0f",
+    "__props": "0e7f58ac"
+  },
+  "/simpledoc/docs/tags/nontag-8e8": {
+    "__comp": "df203c0f",
+    "__props": "0786b2e8"
+  },
+  "/simpledoc/docs/tags/nut-an-bao-chay-7bf": {
+    "__comp": "df203c0f",
+    "__props": "89a73780"
+  },
+  "/simpledoc/docs/tags/table-0ec": {
+    "__comp": "df203c0f",
+    "__props": "1259ae55"
+  },
+  "/simpledoc/docs/tags/tcvn-5738-7b3": {
+    "__comp": "df203c0f",
+    "__props": "1ae3f665"
+  },
+  "/simpledoc/docs/tags/tip-6a6": {
+    "__comp": "df203c0f",
+    "__props": "be85ff2b"
+  },
+  "/simpledoc/docs/tags/tran-gia-c07": {
+    "__comp": "df203c0f",
+    "__props": "267cbbff"
+  },
+  "/simpledoc/docs/tags/vrv-c45": {
+    "__comp": "df203c0f",
+    "__props": "da5634fd"
+  },
+  "/simpledoc/docs-31d": {
+    "__comp": "a94703ab"
+  },
+  "/simpledoc/docs/250417-f17": {
+    "__comp": "17896441",
+    "content": "b86552a0"
+  },
+  "/simpledoc/docs/access-control-a1a": {
+    "__comp": "17896441",
+    "content": "eae57398"
+  },
+  "/simpledoc/docs/CAD TIP/Copy giá trị tăng dần trong auto cad-fdc": {
+    "__comp": "17896441",
+    "content": "26e3f505"
+  },
+  "/simpledoc/docs/CAD TIP/kiểm tra diện tích của một hình bất kỳ bằng lips cad-d31": {
+    "__comp": "17896441",
+    "content": "3ad50d64"
+  },
+  "/simpledoc/docs/CAD TIP/MTEX-CHE-DOI-TUONG-AUTO-CAD-cd3": {
+    "__comp": "17896441",
+    "content": "9aa8d84b"
+  },
+  "/simpledoc/docs/CAD TIP/Vẽ máy biến áp bằng lips cad-d0f": {
+    "__comp": "17896441",
+    "content": "a30083cc"
+  },
+  "/simpledoc/docs/CAD TIP/Vẽ ống Conduit trong auto cad bằng lips-7da": {
+    "__comp": "17896441",
+    "content": "2f232df7"
+  },
+  "/simpledoc/docs/CAD TIP/Vẽ thang máng cáp trong Auto cad bằng lips-17a": {
+    "__comp": "17896441",
+    "content": "d9b05944"
+  },
+  "/simpledoc/docs/CAD TIP/WIPEOUT-ad8": {
+    "__comp": "17896441",
+    "content": "373c398b"
+  },
+  "/simpledoc/docs/category/elt-9d5": {
+    "__comp": "14eb3368",
+    "__props": "32a184ad"
+  },
+  "/simpledoc/docs/category/tutorial---extras-f0e": {
+    "__comp": "14eb3368",
+    "__props": "87dcdb79"
+  },
+  "/simpledoc/docs/day-trung tính-953": {
+    "__comp": "17896441",
+    "content": "678f2442"
+  },
+  "/simpledoc/docs/decks/chinese-60c": {
+    "__comp": "17896441",
+    "content": "9f99b5ca"
+  },
+  "/simpledoc/docs/decks/english-e2d": {
+    "__comp": "17896441",
+    "content": "bc243d84"
+  },
+  "/simpledoc/docs/decks/french-aba": {
+    "__comp": "17896441",
+    "content": "a7c960b5"
+  },
+  "/simpledoc/docs/decks/japanese-0b9": {
+    "__comp": "17896441",
+    "content": "9dfb1551"
+  },
+  "/simpledoc/docs/decks/medical-606": {
+    "__comp": "17896441",
+    "content": "7b2ca0f5"
+  },
+  "/simpledoc/docs/decks/thcs-d3f": {
+    "__comp": "17896441",
+    "content": "94f2eb84"
+  },
+  "/simpledoc/docs/decks/thpt-57e": {
+    "__comp": "17896441",
+    "content": "5939e4ef"
+  },
+  "/simpledoc/docs/demo-675": {
+    "__comp": "17896441",
+    "content": "64808858"
+  },
+  "/simpledoc/docs/ELT/congratulations-c62": {
+    "__comp": "17896441",
+    "content": "2208100a"
+  },
+  "/simpledoc/docs/ELT/create-a-blog-post-b89": {
+    "__comp": "17896441",
+    "content": "c944c0e7"
+  },
+  "/simpledoc/docs/ELT/create-a-document-024": {
+    "__comp": "17896441",
+    "content": "bc8836de"
+  },
+  "/simpledoc/docs/ELT/create-a-page-50a": {
+    "__comp": "17896441",
+    "content": "2c1d5c63"
+  },
+  "/simpledoc/docs/ELT/deploy-your-site-b46": {
+    "__comp": "17896441",
+    "content": "985bca34"
+  },
+  "/simpledoc/docs/ELT/FA/bao-chay-phong-dieu-khien-chua-chay-tu-dong-5d8": {
+    "__comp": "17896441",
+    "content": "1e5abf3a"
+  },
+  "/simpledoc/docs/ELT/FA/bao-chay-tren-tran-gia-3d9": {
+    "__comp": "17896441",
+    "content": "c5327955"
+  },
+  "/simpledoc/docs/ELT/FA/khoảng cách đầu báo cháy-ab6": {
+    "__comp": "17896441",
+    "content": "abf52a0a"
+  },
+  "/simpledoc/docs/ELT/FA/khoang-cach-dau-bao-den-mieng-gio-f9e": {
+    "__comp": "17896441",
+    "content": "31e151ec"
+  },
+  "/simpledoc/docs/ELT/FA/NUT-AN-BAO-CHAY-335": {
+    "__comp": "17896441",
+    "content": "7d3b71de"
+  },
+  "/simpledoc/docs/ELT/markdown-features-f5e": {
+    "__comp": "17896441",
+    "content": "19b29fc6"
+  },
+  "/simpledoc/docs/ENGLISH/LINH/Book Gold A2-e7c": {
+    "__comp": "17896441",
+    "content": "56dbfe38"
+  },
+  "/simpledoc/docs/ENGLISH/LINH/Unit_1-e70": {
+    "__comp": "17896441",
+    "content": "c6b8268d"
+  },
+  "/simpledoc/docs/HVAC/Hệ điều hòa VRV-ab4": {
+    "__comp": "17896441",
+    "content": "7eb76e36"
+  },
+  "/simpledoc/docs/HVAC/Untitled-628": {
+    "__comp": "17896441",
+    "content": "e81bd5fd"
+  },
+  "/simpledoc/docs/intro-072": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/simpledoc/docs/Solar _ PV/Untitled-f2d": {
+    "__comp": "17896441",
+    "content": "820fc656"
+  },
+  "/simpledoc/docs/TCVN7114-1-2008-f4d": {
+    "__comp": "17896441",
+    "content": "8bb23b3b"
+  },
+  "/simpledoc/docs/tutorial-extras/manage-docs-versions-cc2": {
+    "__comp": "17896441",
+    "content": "dff1c289"
+  },
+  "/simpledoc/docs/tutorial-extras/translate-your-site-22e": {
+    "__comp": "17896441",
+    "content": "e44a2883"
+  },
+  "/simpledoc/-7a0": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "config": "5e9f5e1a"
+  }
+}

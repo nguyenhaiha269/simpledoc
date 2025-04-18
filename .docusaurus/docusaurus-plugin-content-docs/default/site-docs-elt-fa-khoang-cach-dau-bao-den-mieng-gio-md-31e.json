@@ -1,0 +1,48 @@
+{
+  "id": "ELT/FA/khoang-cach-dau-bao-den-mieng-gio",
+  "title": "Khoảng cách đầu báo đến miệng gió",
+  "description": "^nwd64l]]",
+  "source": "@site/docs/ELT/FA/khoang-cach-dau-bao-den-mieng-gio.md",
+  "sourceDirName": "ELT/FA",
+  "slug": "/ELT/FA/khoang-cach-dau-bao-den-mieng-gio",
+  "permalink": "/simpledoc/docs/ELT/FA/khoang-cach-dau-bao-den-mieng-gio",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nguyenhaiha269/simpledoc/edit/main/docs/ELT/FA/khoang-cach-dau-bao-den-mieng-gio.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "FA",
+      "permalink": "/simpledoc/docs/tags/fa"
+    },
+    {
+      "inline": true,
+      "label": "khoang_cach_den_mieng_gio",
+      "permalink": "/simpledoc/docs/tags/khoang-cach-den-mieng-gio"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Khoảng cách đầu báo đến miệng gió",
+    "aliases": [
+      "Khoảng cách đầu báo đến miệng gió"
+    ],
+    "tags": [
+      "FA",
+      "khoang_cach_den_mieng_gio"
+    ],
+    "date": null,
+    "url": null,
+    "author": null,
+    "Releated": null
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "đầu báo cháy trên trần giả",
+    "permalink": "/simpledoc/docs/ELT/FA/bao-chay-tren-tran-gia"
+  },
+  "next": {
+    "title": "Khoảng cách các đầu báo cháy",
+    "permalink": "/simpledoc/docs/ELT/FA/khoảng cách đầu báo cháy"
+  }
+}

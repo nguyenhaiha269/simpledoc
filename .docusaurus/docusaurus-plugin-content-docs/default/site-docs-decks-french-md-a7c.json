@@ -1,0 +1,24 @@
+{
+  "id": "decks/french",
+  "title": "french",
+  "description": "",
+  "source": "@site/docs/decks/french.md",
+  "sourceDirName": "decks",
+  "slug": "/decks/french",
+  "permalink": "/simpledoc/docs/decks/french",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nguyenhaiha269/simpledoc/edit/main/docs/decks/french.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bộ thẻ Tiếng Anh",
+    "permalink": "/simpledoc/docs/decks/english"
+  },
+  "next": {
+    "title": "japanese",
+    "permalink": "/simpledoc/docs/decks/japanese"
+  }
+}

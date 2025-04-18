@@ -1,0 +1,40 @@
+{
+  "id": "CAD TIP/Copy giá trị tăng dần trong auto cad",
+  "title": "Copy giá trị tăng dần trong auto cad",
+  "description": "",
+  "source": "@site/docs/CAD TIP/Copy giá trị tăng dần trong auto cad.md",
+  "sourceDirName": "CAD TIP",
+  "slug": "/CAD TIP/Copy giá trị tăng dần trong auto cad",
+  "permalink": "/simpledoc/docs/CAD TIP/Copy giá trị tăng dần trong auto cad",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nguyenhaiha269/simpledoc/edit/main/docs/CAD TIP/Copy giá trị tăng dần trong auto cad.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "nontag",
+      "permalink": "/simpledoc/docs/tags/nontag"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "Copy giá trị tăng dần trong auto cad",
+    "aliases": null,
+    "tags": [
+      "nontag"
+    ],
+    "date": null,
+    "url": null,
+    "author": null,
+    "Releated": null
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hệ thống access control",
+    "permalink": "/simpledoc/docs/access-control"
+  },
+  "next": {
+    "title": "LÀM CHỮ NỔI LÊN TRÊN CHE ĐỐI TƯỢNG TRONG BẢN VẼ CAD",
+    "permalink": "/simpledoc/docs/CAD TIP/MTEX-CHE-DOI-TUONG-AUTO-CAD"
+  }
+}

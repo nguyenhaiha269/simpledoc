@@ -1,0 +1,27 @@
+{
+  "id": "ELT/congratulations",
+  "title": "Xin chúc mừng!",
+  "description": "Bạn vừa học xong các kiến thức cơ bản của Docusaurus và đã thực hiện một số thay đổi đối với mẫu ban đầu.",
+  "source": "@site/docs/ELT/congratulations.md",
+  "sourceDirName": "ELT",
+  "slug": "/ELT/congratulations",
+  "permalink": "/simpledoc/docs/ELT/congratulations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nguyenhaiha269/simpledoc/edit/main/docs/ELT/congratulations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Triển khai trang web của bạn",
+    "permalink": "/simpledoc/docs/ELT/deploy-your-site"
+  },
+  "next": {
+    "title": "Nút ấn báo cháy",
+    "permalink": "/simpledoc/docs/ELT/FA/NUT-AN-BAO-CHAY"
+  }
+}

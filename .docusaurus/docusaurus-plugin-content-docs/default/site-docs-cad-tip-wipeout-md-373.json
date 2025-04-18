@@ -1,0 +1,40 @@
+{
+  "id": "CAD TIP/WIPEOUT",
+  "title": "WIPEOUT",
+  "description": "",
+  "source": "@site/docs/CAD TIP/WIPEOUT.md",
+  "sourceDirName": "CAD TIP",
+  "slug": "/CAD TIP/WIPEOUT",
+  "permalink": "/simpledoc/docs/CAD TIP/WIPEOUT",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nguyenhaiha269/simpledoc/edit/main/docs/CAD TIP/WIPEOUT.md",
+  "tags": [
+    {
+      "inline": true,
+      "label": "nontag",
+      "permalink": "/simpledoc/docs/tags/nontag"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "title": "WIPEOUT",
+    "aliases": null,
+    "tags": [
+      "nontag"
+    ],
+    "date": null,
+    "url": null,
+    "author": null,
+    "Releated": null
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Vẽ ống Conduit trong auto cad bằng lips",
+    "permalink": "/simpledoc/docs/CAD TIP/Vẽ ống Conduit trong auto cad bằng lips"
+  },
+  "next": {
+    "title": "kiểm tra diện tích của một hình bất kỳ bằng lips cad",
+    "permalink": "/simpledoc/docs/CAD TIP/kiểm tra diện tích của một hình bất kỳ bằng lips cad"
+  }
+}

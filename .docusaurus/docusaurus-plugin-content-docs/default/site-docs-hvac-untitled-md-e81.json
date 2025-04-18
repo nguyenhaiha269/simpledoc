@@ -1,0 +1,24 @@
+{
+  "id": "HVAC/Untitled",
+  "title": "Untitled",
+  "description": "",
+  "source": "@site/docs/HVAC/Untitled.md",
+  "sourceDirName": "HVAC",
+  "slug": "/HVAC/Untitled",
+  "permalink": "/simpledoc/docs/HVAC/Untitled",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nguyenhaiha269/simpledoc/edit/main/docs/HVAC/Untitled.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tổng quan hệ thống điều hòa VRV",
+    "permalink": "/simpledoc/docs/HVAC/Hệ điều hòa VRV"
+  },
+  "next": {
+    "title": " Trang web học về PV System",
+    "permalink": "/simpledoc/docs/Solar _ PV/Untitled"
+  }
+}

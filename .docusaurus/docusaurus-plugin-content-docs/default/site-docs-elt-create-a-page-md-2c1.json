@@ -1,0 +1,27 @@
+{
+  "id": "ELT/create-a-page",
+  "title": "Tạo Trang",
+  "description": "Thêm các tệp Markdown hoặc React vào src/pages để tạo một trang độc lập:",
+  "source": "@site/docs/ELT/create-a-page.md",
+  "sourceDirName": "ELT",
+  "slug": "/ELT/create-a-page",
+  "permalink": "/simpledoc/docs/ELT/create-a-page",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nguyenhaiha269/simpledoc/edit/main/docs/ELT/create-a-page.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ELT",
+    "permalink": "/simpledoc/docs/category/elt"
+  },
+  "next": {
+    "title": "Tạo Tài Liệu",
+    "permalink": "/simpledoc/docs/ELT/create-a-document"
+  }
+}

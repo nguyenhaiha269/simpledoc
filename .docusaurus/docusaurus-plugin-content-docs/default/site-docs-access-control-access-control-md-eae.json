@@ -1,0 +1,27 @@
+{
+  "id": "Access control/Access-control",
+  "title": "Hệ thống access control",
+  "description": "link tham khảo",
+  "source": "@site/docs/Access control/Access-control.md",
+  "sourceDirName": "Access control",
+  "slug": "/access-control",
+  "permalink": "/simpledoc/docs/access-control",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nguyenhaiha269/simpledoc/edit/main/docs/Access control/Access-control.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Hệ thống access control",
+    "slug": "/access-control"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "250417",
+    "permalink": "/simpledoc/docs/250417"
+  },
+  "next": {
+    "title": "Copy giá trị tăng dần trong auto cad",
+    "permalink": "/simpledoc/docs/CAD TIP/Copy giá trị tăng dần trong auto cad"
+  }
+}

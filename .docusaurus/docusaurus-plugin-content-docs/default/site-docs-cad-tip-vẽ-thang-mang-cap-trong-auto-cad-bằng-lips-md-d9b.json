@@ -1,0 +1,32 @@
+{
+  "id": "CAD TIP/Vẽ thang máng cáp trong Auto cad bằng lips",
+  "title": "Vẽ thang máng cáp trong Auto cad bằng lips",
+  "description": "",
+  "source": "@site/docs/CAD TIP/Vẽ thang máng cáp trong Auto cad bằng lips.md",
+  "sourceDirName": "CAD TIP",
+  "slug": "/CAD TIP/Vẽ thang máng cáp trong Auto cad bằng lips",
+  "permalink": "/simpledoc/docs/CAD TIP/Vẽ thang máng cáp trong Auto cad bằng lips",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nguyenhaiha269/simpledoc/edit/main/docs/CAD TIP/Vẽ thang máng cáp trong Auto cad bằng lips.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Vẽ thang máng cáp trong Auto cad bằng lips",
+    "aliases": null,
+    "tags": [],
+    "date": null,
+    "url": null,
+    "author": null,
+    "Releated": null
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Vẽ máy biến áp bằng lips cad",
+    "permalink": "/simpledoc/docs/CAD TIP/Vẽ máy biến áp bằng lips cad"
+  },
+  "next": {
+    "title": "Vẽ ống Conduit trong auto cad bằng lips",
+    "permalink": "/simpledoc/docs/CAD TIP/Vẽ ống Conduit trong auto cad bằng lips"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "mdx",
+  "permalink": "/simpledoc/markdown-page",
+  "source": "@site/src/pages/markdown-page.md",
+  "title": "Markdown page example",
+  "description": "HHH",
+  "frontMatter": {
+    "title": "Markdown page example"
+  },
+  "unlisted": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "demo/index",
+  "title": "Standards",
+  "description": "Thư viện ảnh - Image Gallery",
+  "source": "@site/docs/demo/index.md",
+  "sourceDirName": "demo",
+  "slug": "/demo/",
+  "permalink": "/simpledoc/docs/demo/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nguyenhaiha269/simpledoc/edit/main/docs/demo/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "thpt",
+    "permalink": "/simpledoc/docs/decks/thpt"
+  }
+}

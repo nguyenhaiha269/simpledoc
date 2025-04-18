@@ -1,0 +1,24 @@
+{
+  "id": "250417",
+  "title": "250417",
+  "description": "START",
+  "source": "@site/docs/250417.md",
+  "sourceDirName": ".",
+  "slug": "/250417",
+  "permalink": "/simpledoc/docs/250417",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/nguyenhaiha269/simpledoc/edit/main/docs/250417.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/simpledoc/docs/tutorial-extras/translate-your-site"
+  },
+  "next": {
+    "title": "Hệ thống access control",
+    "permalink": "/simpledoc/docs/access-control"
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/simpledoc/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/simpledoc/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "250417",
+              "path": "/simpledoc/docs/250417",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Access control/Access-control",
+              "path": "/simpledoc/docs/access-control",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CAD TIP/Copy giá trị tăng dần trong auto cad",
+              "path": "/simpledoc/docs/CAD TIP/Copy giá trị tăng dần trong auto cad",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CAD TIP/kiểm tra diện tích của một hình bất kỳ bằng lips cad",
+              "path": "/simpledoc/docs/CAD TIP/kiểm tra diện tích của một hình bất kỳ bằng lips cad",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CAD TIP/MTEX-CHE-DOI-TUONG-AUTO-CAD",
+              "path": "/simpledoc/docs/CAD TIP/MTEX-CHE-DOI-TUONG-AUTO-CAD",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CAD TIP/Vẽ máy biến áp bằng lips cad",
+              "path": "/simpledoc/docs/CAD TIP/Vẽ máy biến áp bằng lips cad",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CAD TIP/Vẽ ống Conduit trong auto cad bằng lips",
+              "path": "/simpledoc/docs/CAD TIP/Vẽ ống Conduit trong auto cad bằng lips",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CAD TIP/Vẽ thang máng cáp trong Auto cad bằng lips",
+              "path": "/simpledoc/docs/CAD TIP/Vẽ thang máng cáp trong Auto cad bằng lips",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CAD TIP/WIPEOUT",
+              "path": "/simpledoc/docs/CAD TIP/WIPEOUT",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "day-trung tính",
+              "path": "/simpledoc/docs/day-trung tính",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "decks/chinese",
+              "path": "/simpledoc/docs/decks/chinese",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "decks/english",
+              "path": "/simpledoc/docs/decks/english",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "decks/french",
+              "path": "/simpledoc/docs/decks/french",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "decks/japanese",
+              "path": "/simpledoc/docs/decks/japanese",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "decks/medical",
+              "path": "/simpledoc/docs/decks/medical",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "decks/thcs",
+              "path": "/simpledoc/docs/decks/thcs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "decks/thpt",
+              "path": "/simpledoc/docs/decks/thpt",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "demo/index",
+              "path": "/simpledoc/docs/demo/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ELT/congratulations",
+              "path": "/simpledoc/docs/ELT/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ELT/create-a-blog-post",
+              "path": "/simpledoc/docs/ELT/create-a-blog-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ELT/create-a-document",
+              "path": "/simpledoc/docs/ELT/create-a-document",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ELT/create-a-page",
+              "path": "/simpledoc/docs/ELT/create-a-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ELT/deploy-your-site",
+              "path": "/simpledoc/docs/ELT/deploy-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ELT/FA/bao-chay-phong-dieu-khien-chua-chay-tu-dong",
+              "path": "/simpledoc/docs/ELT/FA/bao-chay-phong-dieu-khien-chua-chay-tu-dong",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ELT/FA/bao-chay-tren-tran-gia",
+              "path": "/simpledoc/docs/ELT/FA/bao-chay-tren-tran-gia",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ELT/FA/khoảng cách đầu báo cháy",
+              "path": "/simpledoc/docs/ELT/FA/khoảng cách đầu báo cháy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ELT/FA/khoang-cach-dau-bao-den-mieng-gio",
+              "path": "/simpledoc/docs/ELT/FA/khoang-cach-dau-bao-den-mieng-gio",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ELT/FA/NUT-AN-BAO-CHAY",
+              "path": "/simpledoc/docs/ELT/FA/NUT-AN-BAO-CHAY",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ELT/markdown-features",
+              "path": "/simpledoc/docs/ELT/markdown-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ENGLISH/LINH/Book Gold A2",
+              "path": "/simpledoc/docs/ENGLISH/LINH/Book Gold A2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ENGLISH/LINH/Unit_1",
+              "path": "/simpledoc/docs/ENGLISH/LINH/Unit_1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "HVAC/Hệ điều hòa VRV",
+              "path": "/simpledoc/docs/HVAC/Hệ điều hòa VRV",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "HVAC/Untitled",
+              "path": "/simpledoc/docs/HVAC/Untitled",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/simpledoc/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Solar _ PV/Untitled",
+              "path": "/simpledoc/docs/Solar _ PV/Untitled",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "TCVN7114-1-2008",
+              "path": "/simpledoc/docs/TCVN7114-1-2008",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/manage-docs-versions",
+              "path": "/simpledoc/docs/tutorial-extras/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/translate-your-site",
+              "path": "/simpledoc/docs/tutorial-extras/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/elt",
+              "path": "/simpledoc/docs/category/elt",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tutorial---extras",
+              "path": "/simpledoc/docs/category/tutorial---extras",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/simpledoc/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  },
+  "docusaurus-lunr-search": {
+    "default": {
+      "fileNames": {
+        "searchDoc": "search-doc-1744946652013.json",
+        "lunrIndex": "lunr-index-1744946652013.json"
+      }
+    }
+  }
+}
